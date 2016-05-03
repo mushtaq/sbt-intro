@@ -1,4 +1,5 @@
 sbt basics
+----------
 
 	download minimal-scala template
 	tweak build file
@@ -10,6 +11,8 @@ sbt basics
 	packageBin, publishLocal
 
 plugins
+-------
+
 	recursion in sbt
 	sbt-native-packager in use
 		package the full all
@@ -21,6 +24,8 @@ plugins
 		sbt-web
 	
 interaction with the build
+--------------------------
+
 	use external library
 	console
 	project console
@@ -28,13 +33,18 @@ interaction with the build
 		task dependencies
 
 multi-projects
+--------------
+
 	common
 	hello1
 	hello2
 
 
 create custom plugin (if time permits)
+----------------------
 
 Out of scope (complicated parts)
+----------------
+
 	global settings
 	scopes, configs, 
